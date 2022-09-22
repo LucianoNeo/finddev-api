@@ -130,7 +130,7 @@
       "name": "André Oliveira de Carvalho",
 			"category": 0,
 			"stack": 1,
-			"state": 0,
+			"state": 2,
 			"description": "Desenvolvedor a 3 anos"
     },
     {
@@ -139,7 +139,7 @@
       "name": "Marivaldo Sena",
 			"category": 1,
 			"stack": 11,
-			"state": 2,
+			"state": 0,
 			"description": "Desenvolvedor a 4 anos"
     },
     {
