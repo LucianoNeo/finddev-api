@@ -73,6 +73,10 @@
 		{
       "id": 10,
       "label": "Google Cloud Plataform"
+    },
+    {
+      "id": 11,
+      "label": "Java"
     }
   ],
   "state": [
@@ -106,8 +110,8 @@
       "id": 0,
 			"photo": "https://ca.slack-edge.com/T03JAKFDQ6P-U03T9LU174G-b5e347aea4cb-512",
       "name": "Alison Lima",
-			"category": 0,
-			"stack": 0,
+			"category": 1,
+			"stack": 2,
 			"state": 0,
 			"description": "Desenvolvedor a 1 anos"
     },
@@ -115,17 +119,17 @@
       "id": 1,
       "photo": "https://ca.slack-edge.com/T03JAKFDQ6P-U03SNCRR65S-0db8ba79567b-512",
       "name": "Luciano dos Santos Bueno",
-			"category": 1,
-			"stack": 1,
-			"state": 0,
+			"category": 0,
+			"stack": 0,
+			"state": 3,
 			"description": "Desenvolvedor a 2 anos"
     },
     {
       "id": 3,
       "photo": "https://ca.slack-edge.com/T03JAKFDQ6P-U03S5CG7XP1-0d52dca5118e-512",
       "name": "André Oliveira de Carvalho",
-			"category": 2,
-			"stack": 2,
+			"category": 0,
+			"stack": 1,
 			"state": 0,
 			"description": "Desenvolvedor a 3 anos"
     },
@@ -133,9 +137,9 @@
       "id": 4,
       "photo": "https://ca.slack-edge.com/T03JAKFDQ6P-U03V6SZK4EA-d7c9fc956e55-512",
       "name": "Marivaldo Sena",
-			"category": 3,
-			"stack": 3,
-			"state": 0,
+			"category": 1,
+			"stack": 11,
+			"state": 2,
 			"description": "Desenvolvedor a 4 anos"
     },
     {
@@ -151,18 +155,18 @@
       "id": 6,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
       "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
+			"category": 5,
+			"stack": 5,
+			"state": 4,
 			"description": "Desenvolvedor a x anos"
     },
     {
       "id": 7,
       "photo": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
       "name": "Junior da Silva",
-			"category": 0,
-			"stack": 0,
-			"state": 0,
+			"category": 6,
+			"stack": 6,
+			"state": 3,
 			"description": "Desenvolvedor a x anos"
     }
   ]
