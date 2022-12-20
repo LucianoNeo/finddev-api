@@ -1,4 +1,4 @@
-# E-carros api
+# Find Devs api
 
 ## Contruido com JSON Server
 
@@ -6,5 +6,5 @@
 [Operadores](https://www.npmjs.com/package/json-server#operators)
 [Paginação](https://www.npmjs.com/package/json-server#pagination)
 
-### Publicado no  Heroku
-[Clique aqui para ver o link](https://finddev-api.herokuapp.com/)
+### Publicado no Railway
+[Clique aqui para ver o link](https://finddevsapi.up.railway.app)
